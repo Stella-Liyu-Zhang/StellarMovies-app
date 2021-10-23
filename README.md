@@ -13,7 +13,7 @@
 I'm Stella, a junior Math-CS major. I'm hoping to become an **aspiring software engineer**. 
 
 Welcome to StellarMovies! Here is a movie app for stellar people like you!
-![This is an image](/Images/S)
+![This is an image](StellarMovies.jpg)
 
 ## Install
 
