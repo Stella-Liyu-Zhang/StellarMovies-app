@@ -2,8 +2,6 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-A movie app for stellar people like you!
-
 ## Table of Contents
 
 - [Background](#background)
@@ -12,7 +10,10 @@ A movie app for stellar people like you!
 
 ## Background
 
-BAD BITCH APP with UI, frontend and backend designed and coded by Stella.
+I'm Stella, a junior Math-CS major. I'm hoping to become an **aspiring software engineer**. 
+
+Welcome to StellarMovies! Here is a movie app for stellar people like you!
+![This is an image](/Images/S)
 
 ## Install
 
